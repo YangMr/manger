@@ -1,6 +1,7 @@
 <template>
   <div>
-    <h1>我是登陆组件</h1>
+    <h1>我是登陆组件----哈哈哈</h1>
+    
   </div>
 </template>
 <script>
